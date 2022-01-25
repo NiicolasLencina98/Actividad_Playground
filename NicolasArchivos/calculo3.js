@@ -1,1 +1,1 @@
-let suma = suma
+let suma =  n1 + n2 
