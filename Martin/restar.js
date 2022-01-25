@@ -1,1 +1,3 @@
-let restar = (n1) -(n2)
+let restar = function restar(a,b){
+    return   (a - b)
+}
